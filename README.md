@@ -5,4 +5,3 @@ The documentation on KODI's music tagging can be found [here](http://kodi.wiki/v
 
 This plugin generates the .nfo file containing a URL that points to the corresponding album page on a MusicBrainz scraper site.
 
-This is just an initial version in early development that tags albums (no artists yet!)
